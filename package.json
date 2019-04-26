@@ -1,0 +1,11 @@
+{
+  "name": "api-money",
+  "version": "1.0.0",
+  "description": "A Node.JS Wrapper over W-HA's API-Money",
+  "main": "lib/api_money.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
