@@ -1,6 +1,6 @@
 {
   "name": "api-money",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.JS Wrapper over W-HA's API-Money",
   "main": "lib/api_money.js",
   "scripts": {
